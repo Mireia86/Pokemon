@@ -1,0 +1,24 @@
+body{
+	height: 100%;
+	width: 100%;
+
+}
+div.info {
+	margin-left: 25%;
+	width: 40%;
+	height: 55%;
+	padding-left: 25px;
+	margin-top: 2%;
+	border: 2px solid grey;
+	text-align: left;
+}
+h3.name2{
+	text-transform: uppercase;
+}
+p.type2{
+	text-transform: uppercase;
+}
+.search {
+	margin-left: 37%;
+	margin-top: 2%;
+}
